@@ -25,7 +25,7 @@ Physicist, Mathematician, Cambridge professor.
 -->
 
 
-<!--
+
 ## Currently
 
 Standing on the shoulders of giants
@@ -96,7 +96,7 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
--->
+
 
 
 

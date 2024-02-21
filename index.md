@@ -55,7 +55,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 

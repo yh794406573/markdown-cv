@@ -5,12 +5,14 @@ title: Yang's CV
 # Yang
 Physicist, Mathematician, Cambridge professor.
 
-<!-- <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
+<!-- 
+<div id="webaddress">
+  <a href="isaac@applesdofall.org">isaac@applesdofall.org</a> | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div> 
+-->
 
 
+<!--
 ## Currently
 
 Standing on the shoulders of giants
@@ -81,6 +83,7 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
+-->
 
 
 

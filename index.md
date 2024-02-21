@@ -9,13 +9,11 @@ Physicist, Mathematician, Cambridge professor.
 
 ### backend
 - java
-  - string
 - string
 
 ### frontend
 - string
 - string
-  - string
 
 ## Experiences
 

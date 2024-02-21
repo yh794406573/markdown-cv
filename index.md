@@ -2,7 +2,7 @@
 layout: cv
 title: Yang's CV
 ---
-# Yang Hao
+# Yang
 Physicist, Mathematician, Cambridge professor.
 
 <!-- <div id="webaddress">
